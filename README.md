@@ -32,3 +32,5 @@ As seguintes linguagens de programação foram usadas na construção do projeto
  
   Entre em contato! 👋
   
+   [![Linkedin Badge](https://img.shields.io/badge/-Carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosaugustodpacheco/)](https://www.linkedin.com/in/carlosaugustodpacheco/) 
+[![Gmail Badge](https://img.shields.io/badge/-carlosaugustodpacheco@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosaugustodpacheco@gmail.com)](mailto:carlosaugustodpacheco@gmail.com)
