@@ -2,7 +2,7 @@
 
 ### 💻 Sobre o projeto
 
-O Sistema de Monitoramento Pluvial Urbano (SMPU) é um projeto que integra hardware, software e soluções em nuvem detectar variações no nível da água em regiões com risco de alagamento, proporcionando alertas locais e remotos à população.
+O Sistema de Monitoramento Pluvial Urbano (SMPU) é um projeto que integra hardware, software e soluções em nuvem para detectar variações no nível da água em regiões com risco de alagamento, proporcionando alertas locais e remotos à população.
 
 ### 📄 Monografia
 
