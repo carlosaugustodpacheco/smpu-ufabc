@@ -19,7 +19,7 @@ Este projeto foi selecionado e publicado no WebSite do LAOB da UFABC e pode ser 
 
 ### ▶️ Video Explicativo
 
-Este projeto foi postado pelo orientador na plataforma Youtube e contém um panamora geral sobre o que foi desenvolvido.
+Este projeto foi postado pelo orientador na plataforma Youtube e contém um panorama geral sobre o que foi desenvolvido.
 
 Assista ao vídeo abaixo.
 
