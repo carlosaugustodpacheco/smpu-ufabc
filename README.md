@@ -11,7 +11,7 @@ A documentação completa do projeto está disponível na Monografia e pode ser 
 
 A Monografia foi apresentada ao Curso de Tecnologias e Sistemas de Informação na Universidade Federal do ABC, como requisito básico para obtenção do Grau de Especialista em Tecnologias e Sistemas da Informação.
 
-Orientadador: Prof. Dr. Mario Gazziro.
+Orientador: Prof. Dr. Mario Gazziro.
 
 ### 🔗 Publicação LAOB - UFABC
 
