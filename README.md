@@ -15,7 +15,7 @@ Orientador: Prof. Dr. Mario Gazziro.
 
 ### 🔗 Publicação LAOB - UFABC
 
-Este projeto foi selecionado e publicado no WebSite do LAOB da UFABC e pode ser acessado <a href="https://laob.pesquisa.ufabc.edu.br/project33.html" target="_blank">AQUI</a>!
+Este projeto foi selecionado e publicado no WebSite do Laboratório LAOB da UFABC e pode ser acessado <a href="https://laob.pesquisa.ufabc.edu.br/project33.html" target="_blank">AQUI</a>!
 
 ### ▶️ Video Explicativo
 
