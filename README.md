@@ -6,20 +6,30 @@ O Sistema de Monitoramento Pluvial Urbano (SMPU) é um projeto que integra hardw
 
 ### 📄 Monografia
 
-A documentação completa do projeto está disponível na monografia e pode ser acessada
-        <a href="https://github.com/carlosaugustodpacheco/smpu-ufabc/blob/main/Monografia/CARLOS_PACHECO-SISTEMA-DE-MONITORAMENTO-PLUVIAL-URBANO-2024.docx%20(5).pdf" target="_blank">aqui</a>!
+A documentação completa do projeto está disponível na Monografia e pode ser acessada
+        <a href="https://github.com/carlosaugustodpacheco/smpu-ufabc/blob/main/Monografia/CARLOS_PACHECO-SISTEMA-DE-MONITORAMENTO-PLUVIAL-URBANO-2024.docx%20(5).pdf" target="_blank">AQUI</a>!
 
 A Monografia foi apresentada ao Curso de Tecnologias e Sistemas de Informação na Universidade Federal do ABC, como requisito básico para obtenção do Grau de Especialista em Tecnologias e Sistemas da Informação.
 
 Orientadador: Prof. Dr. Mario Gazziro.
 
+### 🔗 Publicação LAOB - UFABC
+
+Este projeto foi selecionado e publicado no WebSite do LAOB da UFABC e pode ser acessado <a href="https://laob.pesquisa.ufabc.edu.br/project33.html" target="_blank">AQUI</a>!
+
+### ▶️ Video Explicativo
+
+Este projeto foi postado pelo orientador na plataforma Youtube e contém um panamora geral sobre o que foi desenvolvido.
+
+Assista ao vídeo abaixo.
+
+[![Assista ao vídeo](https://img.youtube.com/vi/wfxlhJ1zvKM/0.jpg)](https://www.youtube.com/watch?v=wfxlhJ1zvKM)
 
 ### 🧩 Arquitetura do Sistema
 
 A visão geral do sistema desenvolvido está ilustrado na figura abaixo.
 
 <img src="https://github.com/user-attachments/assets/aad99023-ec47-434d-a7b4-3e001fdc813d" alt="Arquitetura do SMPU" width="500">
-
 
 
 ### 🛠 Tecnologias
